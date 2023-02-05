@@ -1,0 +1,22 @@
+[
+    {
+        "region": "North-West",
+        "hex_color": "#be29ec"
+    },
+    {
+        "region": "North-East",
+        "hex_color": "#f7dd78"
+    },
+    {
+        "region": "Central-East",
+        "hex_color": "#913945"
+    },
+    {
+        "region": "South-East",
+        "hex_color": "#ea7e7e"
+    },
+    {
+        "region": "South-West",
+        "hex_color": "#5588ff"
+    }
+]

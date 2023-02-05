@@ -1,0 +1,442 @@
+[
+    {
+        "county_name": "Adams",
+        "region": "South-West",
+        "fips_code": "39001"
+    },
+    {
+        "county_name": "Allen",
+        "region": "North-West",
+        "fips_code": "39003"
+    },
+    {
+        "county_name": "Ashland",
+        "region": "North-West",
+        "fips_code": "39005"
+    },
+    {
+        "county_name": "Ashtabula",
+        "region": "North-East",
+        "fips_code": "39007"
+    },
+    {
+        "county_name": "Athens",
+        "region": "South-East",
+        "fips_code": "39009"
+    },
+    {
+        "county_name": "Auglaize",
+        "region": "North-West",
+        "fips_code": "39011"
+    },
+    {
+        "county_name": "Belmont",
+        "region": "Central-East",
+        "fips_code": "39013"
+    },
+    {
+        "county_name": "Brown",
+        "region": "South-West",
+        "fips_code": "39015"
+    },
+    {
+        "county_name": "Butler",
+        "region": "South-West",
+        "fips_code": "39017"
+    },
+    {
+        "county_name": "Carroll",
+        "region": "Central-East",
+        "fips_code": "39019"
+    },
+    {
+        "county_name": "Champaign",
+        "region": "North-West",
+        "fips_code": "39021"
+    },
+    {
+        "county_name": "Clark",
+        "region": "North-West",
+        "fips_code": "39023"
+    },
+    {
+        "county_name": "Clermont",
+        "region": "South-West",
+        "fips_code": "39025"
+    },
+    {
+        "county_name": "Clinton",
+        "region": "South-West",
+        "fips_code": "39027"
+    },
+    {
+        "county_name": "Columbiana",
+        "region": "North-East",
+        "fips_code": "39029"
+    },
+    {
+        "county_name": "Coshocton",
+        "region": "Central-East",
+        "fips_code": "39031"
+    },
+    {
+        "county_name": "Crawford",
+        "region": "North-West",
+        "fips_code": "39033"
+    },
+    {
+        "county_name": "Cuyahoga",
+        "region": "North-East",
+        "fips_code": "39035"
+    },
+    {
+        "county_name": "Darke",
+        "region": "North-West",
+        "fips_code": "39037"
+    },
+    {
+        "county_name": "Defiance",
+        "region": "North-West",
+        "fips_code": "39039"
+    },
+    {
+        "county_name": "Delaware",
+        "region": "Central-East",
+        "fips_code": "39041"
+    },
+    {
+        "county_name": "Erie",
+        "region": "North-West",
+        "fips_code": "39043"
+    },
+    {
+        "county_name": "Fairfield",
+        "region": "South-East",
+        "fips_code": "39045"
+    },
+    {
+        "county_name": "Fayette",
+        "region": "South-East",
+        "fips_code": "39047"
+    },
+    {
+        "county_name": "Franklin",
+        "region": "Central-East",
+        "fips_code": "39049"
+    },
+    {
+        "county_name": "Fulton",
+        "region": "North-West",
+        "fips_code": "39051"
+    },
+    {
+        "county_name": "Gallia",
+        "region": "South-East",
+        "fips_code": "39053"
+    },
+    {
+        "county_name": "Geauga",
+        "region": "North-East",
+        "fips_code": "39055"
+    },
+    {
+        "county_name": "Greene",
+        "region": "North-West",
+        "fips_code": "39057"
+    },
+    {
+        "county_name": "Guernsey",
+        "region": "Central-East",
+        "fips_code": "39059"
+    },
+    {
+        "county_name": "Hamilton",
+        "region": "South-West",
+        "fips_code": "39061"
+    },
+    {
+        "county_name": "Hancock",
+        "region": "North-West",
+        "fips_code": "39063"
+    },
+    {
+        "county_name": "Hardin",
+        "region": "North-West",
+        "fips_code": "39065"
+    },
+    {
+        "county_name": "Harrison",
+        "region": "Central-East",
+        "fips_code": "39067"
+    },
+    {
+        "county_name": "Henry",
+        "region": "North-West",
+        "fips_code": "39069"
+    },
+    {
+        "county_name": "Highland",
+        "region": "South-West",
+        "fips_code": "39071"
+    },
+    {
+        "county_name": "Hocking",
+        "region": "South-East",
+        "fips_code": "39073"
+    },
+    {
+        "county_name": "Holmes",
+        "region": "Central-East",
+        "fips_code": "39075"
+    },
+    {
+        "county_name": "Huron",
+        "region": "North-West",
+        "fips_code": "39077"
+    },
+    {
+        "county_name": "Jackson",
+        "region": "South-West",
+        "fips_code": "39079"
+    },
+    {
+        "county_name": "Jefferson",
+        "region": "Central-East",
+        "fips_code": "39081"
+    },
+    {
+        "county_name": "Knox",
+        "region": "Central-East",
+        "fips_code": "39083"
+    },
+    {
+        "county_name": "Lake",
+        "region": "North-East",
+        "fips_code": "39085"
+    },
+    {
+        "county_name": "Lawrence",
+        "region": "South-West",
+        "fips_code": "39087"
+    },
+    {
+        "county_name": "Licking",
+        "region": "Central-East",
+        "fips_code": "39089"
+    },
+    {
+        "county_name": "Logan",
+        "region": "North-West",
+        "fips_code": "39091"
+    },
+    {
+        "county_name": "Lorain",
+        "region": "North-East",
+        "fips_code": "39093"
+    },
+    {
+        "county_name": "Lucas",
+        "region": "North-West",
+        "fips_code": "39095"
+    },
+    {
+        "county_name": "Madison",
+        "region": "South-East",
+        "fips_code": "39097"
+    },
+    {
+        "county_name": "Mahoning",
+        "region": "North-East",
+        "fips_code": "39099"
+    },
+    {
+        "county_name": "Marion",
+        "region": "Central-East",
+        "fips_code": "39101"
+    },
+    {
+        "county_name": "Medina",
+        "region": "North-East",
+        "fips_code": "39103"
+    },
+    {
+        "county_name": "Meigs",
+        "region": "South-East",
+        "fips_code": "39105"
+    },
+    {
+        "county_name": "Mercer",
+        "region": "North-West",
+        "fips_code": "39107"
+    },
+    {
+        "county_name": "Miami",
+        "region": "North-West",
+        "fips_code": "39109"
+    },
+    {
+        "county_name": "Monroe",
+        "region": "Central-East",
+        "fips_code": "39111"
+    },
+    {
+        "county_name": "Montgomery",
+        "region": "North-West",
+        "fips_code": "39113"
+    },
+    {
+        "county_name": "Morgan",
+        "region": "South-East",
+        "fips_code": "39115"
+    },
+    {
+        "county_name": "Morrow",
+        "region": "Central-East",
+        "fips_code": "39117"
+    },
+    {
+        "county_name": "Muskingum",
+        "region": "Central-East",
+        "fips_code": "39119"
+    },
+    {
+        "county_name": "Noble",
+        "region": "Central-East",
+        "fips_code": "39121"
+    },
+    {
+        "county_name": "Ottawa",
+        "region": "North-West",
+        "fips_code": "39123"
+    },
+    {
+        "county_name": "Paulding",
+        "region": "North-West",
+        "fips_code": "39125"
+    },
+    {
+        "county_name": "Perry",
+        "region": "South-East",
+        "fips_code": "39127"
+    },
+    {
+        "county_name": "Pickaway",
+        "region": "South-East",
+        "fips_code": "39129"
+    },
+    {
+        "county_name": "Pike",
+        "region": "South-West",
+        "fips_code": "39131"
+    },
+    {
+        "county_name": "Portage",
+        "region": "North-East",
+        "fips_code": "39133"
+    },
+    {
+        "county_name": "Preble",
+        "region": "North-West",
+        "fips_code": "39135"
+    },
+    {
+        "county_name": "Putnam",
+        "region": "North-West",
+        "fips_code": "39137"
+    },
+    {
+        "county_name": "Richland",
+        "region": "North-West",
+        "fips_code": "39139"
+    },
+    {
+        "county_name": "Ross",
+        "region": "South-East",
+        "fips_code": "39141"
+    },
+    {
+        "county_name": "Sandusky",
+        "region": "North-West",
+        "fips_code": "39143"
+    },
+    {
+        "county_name": "Scioto",
+        "region": "South-West",
+        "fips_code": "39145"
+    },
+    {
+        "county_name": "Seneca",
+        "region": "North-West",
+        "fips_code": "39147"
+    },
+    {
+        "county_name": "Shelby",
+        "region": "North-West",
+        "fips_code": "39149"
+    },
+    {
+        "county_name": "Stark",
+        "region": "North-East",
+        "fips_code": "39151"
+    },
+    {
+        "county_name": "Summit",
+        "region": "North-East",
+        "fips_code": "39153"
+    },
+    {
+        "county_name": "Trumbull",
+        "region": "North-East",
+        "fips_code": "39155"
+    },
+    {
+        "county_name": "Tuscarawas",
+        "region": "Central-East",
+        "fips_code": "39157"
+    },
+    {
+        "county_name": "Union",
+        "region": "South-East",
+        "fips_code": "39159"
+    },
+    {
+        "county_name": "Van Wert",
+        "region": "North-West",
+        "fips_code": "39161"
+    },
+    {
+        "county_name": "Vinton",
+        "region": "South-East",
+        "fips_code": "39163"
+    },
+    {
+        "county_name": "Warren",
+        "region": "South-West",
+        "fips_code": "39165"
+    },
+    {
+        "county_name": "Washington",
+        "region": "South-East",
+        "fips_code": "39167"
+    },
+    {
+        "county_name": "Wayne",
+        "region": "North-East",
+        "fips_code": "39169"
+    },
+    {
+        "county_name": "Williams",
+        "region": "North-West",
+        "fips_code": "39171"
+    },
+    {
+        "county_name": "Wood",
+        "region": "North-West",
+        "fips_code": "39173"
+    },
+    {
+        "county_name": "Wyandot",
+        "region": "North-West",
+        "fips_code": "39175"
+    }
+]
